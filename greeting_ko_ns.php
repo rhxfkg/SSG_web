@@ -1,0 +1,5 @@
+<?php
+namespace language\ko;
+function welcome(){
+    return '¾È³çÇÏ¼¼¿ä';
+}
